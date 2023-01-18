@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAX30100	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin				KEYWORD2
+setMode 			KEYWORD2
+begin				KEYWORD2
+setMode				KEYWORD2
+setLedsPulseWidth		KEYWORD2
+setSamplingRate			KEYWORD2
+setLedsCurrent			KEYWORD2
+setHighresModeEnabled		KEYWORD2
+update				KEYWORD2
+getRawValues			KEYWORD2
+resetFifo			KEYWORD2
+startTemperatureSampling	KEYWORD2
+isTemperatureReady		KEYWORD2
+retrieveTemperature		KEYWORD2
+shutdown			KEYWORD2
+resume				KEYWORD2
+getPartId			KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
